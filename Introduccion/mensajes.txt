@@ -1,0 +1,45 @@
+Loggging.py ----- fecha : 01:54:18
+Loggging.py ----- fecha : 01:54:18
+Loggging.py ----- fecha : 01:54:18
+Loggging.py ----- fecha : 01:54:18
+Loggging.py ----- fecha : 01:54:18
+Loggging.py ----- fecha : Este es un mensaje tipo Debug
+Loggging.py ----- fecha : Este es un mensaje tipo Info
+Loggging.py ----- fecha : Este es un mensaje tipo Warning
+Loggging.py ----- fecha : Este es un mensaje tipo Error
+Loggging.py ----- fecha : Este es un mensaje tipo Critical
+Loggging.py ----- fecha : mensajazos
+Loggging.py ----- fecha : mensajazos
+Loggging.py ----- fecha : mensajazos
+Loggging.py ----- fecha : mensajazos
+Loggging.py ----- fecha : mensajazos
+Loggging.py ----- fecha : DEBUG
+Loggging.py ----- fecha : INFO
+Loggging.py ----- fecha : WARNING
+Loggging.py ----- fecha : ERROR
+Loggging.py ----- fecha : CRITICAL
+Loggging.py ----- fecha : 31
+Loggging.py ----- fecha : 32
+Loggging.py ----- fecha : 33
+Loggging.py ----- fecha : 34
+Loggging.py ----- fecha : 35
+Este es un mensaje tipo Debug ----- fecha : root
+Este es un mensaje tipo Info ----- fecha : root
+Este es un mensaje tipo Warning ----- fecha : root
+Este es un mensaje tipo Error ----- fecha : root
+Este es un mensaje tipo Critical ----- fecha : root
+Este es un mensaje tipo Debug ----- fecha : Loggging.py
+Este es un mensaje tipo Info ----- fecha : Loggging.py
+Este es un mensaje tipo Warning ----- fecha : Loggging.py
+Este es un mensaje tipo Error ----- fecha : Loggging.py
+Este es un mensaje tipo Critical ----- fecha : Loggging.py
+Este es un mensaje tipo Debug ----- fecha : MainThread
+Este es un mensaje tipo Info ----- fecha : MainThread
+Este es un mensaje tipo Warning ----- fecha : MainThread
+Este es un mensaje tipo Error ----- fecha : MainThread
+Este es un mensaje tipo Critical ----- fecha : MainThread
+Este es un mensaje tipo Debug ----- fecha : MainProcess
+Este es un mensaje tipo Info ----- fecha : MainProcess
+Este es un mensaje tipo Warning ----- fecha : MainProcess
+Este es un mensaje tipo Error ----- fecha : MainProcess
+Este es un mensaje tipo Critical ----- fecha : MainProcess
